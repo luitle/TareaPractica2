@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TareaPractica2/static/css/main.b18c1238.css",
+    "main.js": "/TareaPractica2/static/js/main.62fff66c.js",
+    "static/js/787.9a9c9c2f.chunk.js": "/TareaPractica2/static/js/787.9a9c9c2f.chunk.js",
+    "index.html": "/TareaPractica2/index.html",
+    "main.b18c1238.css.map": "/TareaPractica2/static/css/main.b18c1238.css.map",
+    "main.62fff66c.js.map": "/TareaPractica2/static/js/main.62fff66c.js.map",
+    "787.9a9c9c2f.chunk.js.map": "/TareaPractica2/static/js/787.9a9c9c2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b18c1238.css",
+    "static/js/main.62fff66c.js"
+  ]
+}
